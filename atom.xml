@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Geosprocket Community Jive]]></title>
-  <link href="http://wboykinm.github.io/blag/atom.xml" rel="self"/>
-  <link href="http://wboykinm.github.io/blag/"/>
-  <updated>2013-08-13T16:22:22-04:00</updated>
-  <id>http://wboykinm.github.io/blag/</id>
-  <author>
-    <name><![CDATA[Geosprocket LLC]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+	<title><![CDATA[Geosprocket Community Jive]]></title>
+	<link href="http://wboykinm.github.io/blag/atom.xml" rel="self"/>
+	<link href="http://wboykinm.github.io/blag/"/>
+	<updated>2013-08-13T16:30:55-04:00</updated>
+	<id>http://wboykinm.github.io/blag/</id>
+	<author>
+		<name><![CDATA[Geosprocket LLC]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[A GeoDemo]]></title>
-    <link href="http://wboykinm.github.io/blag/blog/2013/08/13/a-geodemo/"/>
-    <updated>2013-08-13T16:17:00-04:00</updated>
-    <id>http://wboykinm.github.io/blag/blog/2013/08/13/a-geodemo</id>
-    <content type="html"><![CDATA[<h1>A strong Dose</h1>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[A GeoDemo]]></title>
+		
+		<link href="http://wboykinm.github.io/blag/blog/2013/08/13/a-geodemo/"/>
+		<updated>2013-08-13T16:17:00-04:00</updated>
+		<id>http://wboykinm.github.io/blag/blog/2013/08/13/a-geodemo</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<h1>A strong Dose</h1>
 
 <h2>High Life semiotics</h2>
 
@@ -39,7 +47,8 @@
 <h2>trust fund chillwave</h2>
 
 <p>YOLO Echo Park, pop-up squid. IPhone quinoa Godard, kitsch post-ironic letterpress tofu farm-to-table hashtag authentic kogi pop-up lomo fanny pack food truck.</p>
-]]></content>
-  </entry>
-  
+]]>
+		</content>
+	</entry>
+	
 </feed>
