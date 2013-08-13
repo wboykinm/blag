@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Geosprocket Community Jive]]></title>
-  <link href="http://wboykinm.github.io/blag/atom.xml" rel="self"/>
+  <title><![CDATA[Category: meh | Geosprocket Community Jive]]></title>
+  <link href="http://wboykinm.github.io/blag/blog/categories/meh/atom.xml" rel="self"/>
   <link href="http://wboykinm.github.io/blag/"/>
   <updated>2013-08-13T16:22:22-04:00</updated>
   <id>http://wboykinm.github.io/blag/</id>
